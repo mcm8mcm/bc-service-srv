@@ -50,7 +50,8 @@ return [
             'charset' => 'utf8',
             'collation' => 'utf8_general_ci',
             'prefix' => 'mcmbcs_',
-            'strict' => true,
+            //'prefix' => 'dipl_',
+            'strict' => false,
             'engine' => null,
         ],
 

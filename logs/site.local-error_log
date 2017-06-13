@@ -1,0 +1,2 @@
+[Tue Jun 13 09:18:40.200460 2017] [:error] [pid 2340:tid 1752] [client 127.0.0.1:49661] PHP Fatal error:  Class 'App\\Http\\Controllers\\DB' not found in E:\\dev\\php\\diplom-se\\bc-service-srv\\app\\Http\\Controllers\\Test.php on line 11
+[Tue Jun 13 11:15:29.219900 2017] [:error] [pid 2340:tid 1752] [client 127.0.0.1:50211] PHP Fatal error:  Class 'App\\Http\\Controllers\\App\\Brand' not found in E:\\dev\\php\\diplom-se\\bc-service-srv\\app\\Http\\Controllers\\Test.php on line 27
