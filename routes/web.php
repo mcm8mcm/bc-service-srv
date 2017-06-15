@@ -16,7 +16,7 @@ Route::get('/', function () {
 });
 
 Route::get('Test', 'Test@index');
-
 Auth::routes();
+Route::post('login', 'mcm_auth\LoginController@login')->name('login');
 
 Route::get('/home', 'HomeController@index')->name('home');
